@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_demo/sunflower.dart';
 
 void main() {
   runApp(const MyApp());
+  runApp(const Sunflower());
 }
 
 class MyApp extends StatelessWidget {
